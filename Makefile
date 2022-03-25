@@ -6,4 +6,4 @@ pull:
 
 push:				img
 						@docker push pruizca/42img:latest
-						@docker image rm pruiz-ca/42img
+						@docker image rm pruizca/42img
